@@ -1,4 +1,3 @@
-# hi
-👋 Hi!
+# 👋 Hi!
 
 Simple personal single page intro
